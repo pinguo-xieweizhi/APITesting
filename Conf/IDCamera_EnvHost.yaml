@@ -1,0 +1,8 @@
+QA:
+  idphoto: "http://idphoto-qa.camera360.com"
+PROD:
+  idphoto: "http://idphoto-api.camera360.com"
+  bmall: "https://bmall.camera360.com"
+PROD-PRE:
+  idphoto: "http://idphoto-api-pv.camera360.com"
+  bmall: "https://bmall-pre.camera360.com"

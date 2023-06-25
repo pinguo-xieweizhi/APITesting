@@ -1,0 +1,11 @@
+QA:
+  videobeats: "https://video-beats-api-qa.camera360.com"
+
+PROD:
+  videobeats: "https://video-beats-api.camera360.com"
+
+PRE:
+  videobeats: "https://video-beats-api-pre.camera360.com"
+
+PROD-O/S:
+  videobeats: "https://video-beats-api.360in.com"

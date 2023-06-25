@@ -1,0 +1,17 @@
+QA:
+  bmall: "https://bmall-qa.camera360.com"
+  i: "https://i-qa.camera360.com"
+  cdn-bm: "https://cdn-bm-qa.camera360.com"
+  ops: "https://mix-api-qa.camera360.com"
+
+PROD:
+  bmall: "https://bmall.camera360.com"
+  i: "https://i.camera360.com"
+  cdn-bm: "https://cdn-bm.camera360.com"
+  ops: "https://mix-api.camera360.com"
+
+PROD-PRE:
+  bmall: "https://bmall-pre.camera360.com"
+  i: "https://i.camera360.com"
+  cdn-bm: "https://cdn-bm-pre.camera360.com"
+  ops: "https://mix-api.camera360.com"

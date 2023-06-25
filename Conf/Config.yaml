@@ -1,0 +1,15 @@
+APP: C360_Android
+Assert_Msg: All
+ENV: QA
+Global_Exported: true
+Global_Var: {}
+LOG_Level: info
+MOD: "\u76F8\u673A\u8D34\u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE"
+PRIO: '5'
+TIMEOUT: '10'
+TestList:
+- "/Users/wangxiangyu/PycharmProjects/APITesting/TestCase/C360_Android/\u76F8\u673A\
+  \u8D34\u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE/\u8D34\u7EB8\u8BE6\u60C5.py"
+- "/Users/wangxiangyu/PycharmProjects/APITesting/TestCase/C360_Android/\u76F8\u673A\
+  \u8D34\u7EB8_\u5B57\u6BB5\u5BF9\u7167_Android_PRE/\u8D34\u7EB8\u5206\u7C7B&\u7D20\
+  \u6750.py"
