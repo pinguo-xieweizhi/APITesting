@@ -1,0 +1,10 @@
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]当前用例运行产品：C360_Android
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]当前Allure断言信息区间为：All
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]当前日志级默认级别为: info 
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]当前用例运行模块：相机贴纸_字段对照_Android_PRE
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]当前接口请求超时时间为： 10 s
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]Start Class...
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]Start Method...
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]开始执行用例：00603_Response data获取
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:18]Request url:https://cdn-bm.camera360.com/api/product/detail
+[32mINFO    [0m root:Log.py:74 [INFO 2023-06-25 18:04:21]Finish Method...
